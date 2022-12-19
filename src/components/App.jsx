@@ -1,16 +1,8 @@
-export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
-};
+import { Counter } from './Counter';
+
+export const App = () => (
+  <>
+    <h1>Hello from the App</h1>
+    <Counter initialValue={0} step={1} />
+  </>
+);
