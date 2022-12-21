@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+
 
 import { Statistics } from './Statistics/Statistics.jsx';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions.jsx';
