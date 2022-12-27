@@ -1,0 +1,19 @@
+.statistics__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.statistics__head {
+  margin: 0;
+  padding: 25px;
+}
+.statistics__list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 25px;
+  list-style: none;
+}/*# sourceMappingURL=Statistics.module.css.map */
