@@ -7,11 +7,12 @@
   color: #1f3349;
   border-radius: 10px;
   background-color: white;
-  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
 }
 .feedback__title {
   display: flex;
   justify-content: center;
   margin: 0;
   padding: 25px 0 25px 0;
-}/*# sourceMappingURL=Section.module.css.map */
+}
